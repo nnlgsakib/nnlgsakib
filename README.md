@@ -16,6 +16,7 @@ Passionate blockchain enthusiast and professional core blockchain developer with
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nnlgsakib&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/nnlgsakib)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/nnlgsakib)](https://badges.pufler.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=nnlgsakib)
 ![Organizations](https://img.shields.io/badge/Organizations-2-brightgreen)
 
 ## 🛠️ My Expertise
@@ -27,9 +28,9 @@ Passionate blockchain enthusiast and professional core blockchain developer with
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nlg-sakib-338339279/)
-- [Twitter](https://twitter.com/nlg_sakib)
-- [Instagram](https://www.instagram.com/nlg_sakib/)
-- [Email](mailto:nlgarts@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nlg--sakib-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/nlg-sakib-338339279/)
+[![Twitter](https://img.shields.io/badge/Twitter-nlg__sakib-blue?logo=twitter&style=flat-square)](https://twitter.com/nlg_sakib)
+[![Instagram](https://img.shields.io/badge/Instagram-nlg__sakib-pink?logo=instagram&style=flat-square)](https://www.instagram.com/nlg_sakib/)
+[![Email](https://img.shields.io/badge/Email-nlgarts%40outlook.com-orange?logo=Microsoft-Outlook&style=flat-square)](mailto:nlgarts@outlook.com)
 
 Let's revolutionize the world with blockchain technology! 🔗✨
