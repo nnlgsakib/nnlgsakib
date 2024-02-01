@@ -1,4 +1,4 @@
-![Background]([[https://www.wearefrantic.com/wp-content/uploads/2019/03/blockchain-animation-companies.jpg](https://github.com/nnlgsakib/nnlgsakib/assets/107909889/90d6c4d3-c8c1-4837-87e7-ba1a5da96022)](https://github.com/nnlgsakib/nnlgsakib/assets/107909889/90d6c4d3-c8c1-4837-87e7-ba1a5da96022))
+![blockchain-security-concept-banner-template-vector-47483998](https://github.com/nnlgsakib/nnlgsakib/assets/107909889/cb96d754-703b-40a0-93a1-f692709290d7)
 
 # 👋 Hey, I'm NLG Sakib - AKA Young Buterine
 
