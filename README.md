@@ -1,5 +1,3 @@
-![blockchain-security-concept-banner-template-vector-47483998](https://github.com/nnlgsakib/nnlgsakib/assets/107909889/cb96d754-703b-40a0-93a1-f692709290d7)
-
 # 👋 Hey, I'm NLG Sakib - AKA Young Buterine
 
 ![GitHub followers](https://img.shields.io/github/followers/nnlgsakib?logo=GitHub&style=for-the-badge)
