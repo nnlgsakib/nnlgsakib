@@ -1,3 +1,5 @@
+![Background](https://www.wearefrantic.com/wp-content/uploads/2019/03/blockchain-animation-companies.jpg)
+
 # 👋 Hey, I'm NLG Sakib - AKA Young Buterine
 
 ![GitHub followers](https://img.shields.io/github/followers/nnlgsakib?logo=GitHub&style=for-the-badge)
@@ -16,7 +18,6 @@ Passionate blockchain enthusiast and professional core blockchain developer with
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nnlgsakib&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/nnlgsakib)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/nnlgsakib)](https://badges.pufler.dev)
-![Profile Views](https://komarev.com/ghpvc/?username=nnlgsakib)
 ![Organizations](https://img.shields.io/badge/Organizations-2-brightgreen)
 
 ## 🛠️ My Expertise
