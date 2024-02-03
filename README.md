@@ -6,28 +6,13 @@ Passionate blockchain enthusiast and professional core blockchain developer with
 
 ## 🚀 My Stats
 
-<!-- Add the following code to your README -->
-
-<style>
-  @keyframes rgbAnimation {
-    0% {
-      filter: hue-rotate(0deg);
-    }
-    100% {
-      filter: hue-rotate(360deg);
-    }
-  }
-
-  .rgb-effect {
-    animation: rgbAnimation 10s infinite;
-  }
-</style>
-
 <a href="https://github.com/nnlgsakib" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnlgsakib&show_icons=true&count_private=true" alt="nnlgsakib's GitHub Stats" class="rgb-effect" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnlgsakib&show_icons=true&count_private=true" alt="nnlgsakib's GitHub Stats" />
 </a>
+
+
 <a href="https://github.com/nnlgsakib" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnlgsakib&layout=compact&hide=html" alt="nnlgsakib's Top Languages" class="rgb-effect" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnlgsakib&layout=compact&hide=html" alt="nnlgsakib's Top Languages" />
 </a>
 
 
