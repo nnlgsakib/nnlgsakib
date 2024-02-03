@@ -6,26 +6,30 @@ Passionate blockchain enthusiast and professional core blockchain developer with
 
 ## 🚀 My Stats
 
-<div style="position: relative;">
-  <a href="https://github.com/nnlgsakib" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnlgsakib&show_icons=true&count_private=true" alt="nnlgsakib's GitHub Stats" />
-  </a>
-  <a href="https://github.com/nnlgsakib" target="_blank" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to right, #ff0000, #00ff00, #0000ff); opacity: 0.5; animation: colorChange 5s infinite;"></div>
-  </a>
-</div>
+<!-- Add the following code to your README -->
 
 <style>
-  @keyframes colorChange {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
+  @keyframes rgbAnimation {
+    0% {
+      filter: hue-rotate(0deg);
+    }
+    100% {
+      filter: hue-rotate(360deg);
+    }
+  }
+
+  .rgb-effect {
+    animation: rgbAnimation 10s infinite;
   }
 </style>
 
 <a href="https://github.com/nnlgsakib" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnlgsakib&layout=compact&hide=html" alt="nnlgsakib's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nnlgsakib&show_icons=true&count_private=true" alt="nnlgsakib's GitHub Stats" class="rgb-effect" />
 </a>
+<a href="https://github.com/nnlgsakib" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnlgsakib&layout=compact&hide=html" alt="nnlgsakib's Top Languages" class="rgb-effect" />
+</a>
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nnlgsakib&theme=dark&hide_border=true)](https://git.io/streak-stats)
