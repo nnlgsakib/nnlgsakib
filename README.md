@@ -21,7 +21,7 @@ Passionate blockchain enthusiast and professional core blockchain developer with
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/nnlgsakib)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/nnlgsakib)](https://badges.pufler.dev)
 ![Organizations](https://img.shields.io/badge/Organizations-2-brightgreen)
-![](https://github-contributor-stats.vercel.app/api?username=wasi-master&limit=5&theme=black&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nnlgsakib&limit=5&theme=black&combine_all_yearly_contributions=true)
 
 ## 🛠️ My Expertise
 
