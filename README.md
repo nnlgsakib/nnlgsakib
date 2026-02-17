@@ -1,150 +1,109 @@
-# 👋 Hey, I'm NLG Sakib
+# NLG Sakib
 
-![GitHub followers](https://img.shields.io/github/followers/nnlgsakib?logo=GitHub&style=for-the-badge)
+> **Blockchain Architect & Full-Stack Engineer**  
+> Specializing in custom blockchain infrastructure, Layer 2 solutions, and distributed systems
 
-**Professional Blockchain & Full-Stack Developer** | Building the Decentralized Future
-
-Passionate technologist specializing in blockchain infrastructure, full-stack development, and distributed systems. Experienced in architecting custom blockchains, Layer 2 solutions, decentralized applications, and enterprise-grade software solutions.
-
----
-
-## 🚀 GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/nnlgsakib">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nnlgsakib&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/nnlgsakib">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnlgsakib&layout=compact&hide=html&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nnlgsakib&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/nnlgsakib)](https://badges.pufler.dev)
-  [![Years Badge](https://badges.pufler.dev/years/nnlgsakib)](https://badges.pufler.dev)
-  ![Organizations](https://img.shields.io/badge/Organizations-2-brightgreen)
-  
-  ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=nnlgsakib&limit=5&theme=dark&combine_all_yearly_contributions=true)
-  
-</div>
+[![GitHub](https://img.shields.io/github/followers/nnlgsakib?label=Follow&style=social)](https://github.com/nnlgsakib)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nlg-sakib-338339279/)
+[![Twitter](https://img.shields.io/badge/-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nlg_sakib)
+[![Email](https://img.shields.io/badge/-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nlgarts@outlook.com)
 
 ---
 
-## 💼 Technical Expertise
+## About Me
 
-### Blockchain Development
-- **Custom Blockchain Architecture**: Design and implementation of bespoke blockchain networks
-- **Layer 2 Solutions**: Scaling solutions, sidechains, and rollup implementations
-- **Smart Contracts**: Solidity, Vyper, and cross-chain contract development
-- **Decentralized Applications (dApps)**: End-to-end dApp development and deployment
-- **Consensus Mechanisms**: PoS, PoW, and custom consensus algorithm implementation
+Professional developer with deep expertise in blockchain technology and modern software engineering. I build scalable blockchain networks, decentralized applications, and full-stack solutions from the ground up.
 
-### Full-Stack Development
-- **Frontend**: React, Vue.js, Angular, Next.js, responsive web design
-- **Backend**: Node.js, Python, Go, Rust, microservices architecture
-- **Mobile Development**: React Native, Flutter, native iOS/Android applications
-- **APIs & Integration**: RESTful APIs, GraphQL, WebSocket, gRPC
-
-### Infrastructure & DevOps
-- **Network Engineering**: Protocol design, distributed systems, P2P networking
-- **Cloud Platforms**: AWS, Google Cloud, Azure, containerization (Docker, Kubernetes)
-- **Database Management**: PostgreSQL, MongoDB, Redis, IPFS
-- **CI/CD**: Jenkins, GitHub Actions, automated testing and deployment pipelines
-
-### Additional Skills
-- **Algorithms & Data Structures**: Advanced problem-solving and optimization
-- **Security**: Cryptography, smart contract auditing, penetration testing
-- **Web3 Technologies**: IPFS, The Graph, Chainlink, various Web3 frameworks
+**Core Competencies:**
+- Custom blockchain architecture and consensus mechanisms
+- Layer 2 scaling solutions and smart contract development
+- Full-stack web and mobile application development
+- Distributed systems and network protocol design
+- Cloud infrastructure and DevOps automation
 
 ---
 
-## 🔧 Technology Stack
+## Tech Stack
 
-<div align="center">
+**Blockchain & Web3**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat&logo=polygon&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white)
 
-### Languages
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+**Database & Storage**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-</div>
-
----
-
-## 🌟 What I Do
-
-- 🔗 **Blockchain Architecture**: Designing and implementing scalable blockchain solutions from the ground up
-- 📱 **Full-Stack Applications**: Building responsive web and mobile applications with modern frameworks
-- 🛡️ **Smart Contract Development**: Creating secure, audited smart contracts for various use cases
-- ⚡ **Layer 2 Solutions**: Developing high-performance scaling solutions for blockchain networks
-- 🌐 **Distributed Systems**: Architecting robust P2P networks and distributed applications
-- 💻 **Backend Engineering**: Developing scalable APIs and microservices architectures
-- 📊 **Algorithm Design**: Implementing efficient consensus mechanisms and optimization strategies
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NLG_Sakib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nlg-sakib-338339279/)
-[![Twitter](https://img.shields.io/badge/Twitter-@nlg__sakib-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nlg_sakib)
-[![Instagram](https://img.shields.io/badge/Instagram-@nlg__sakib-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nlg_sakib/)
-[![Email](https://img.shields.io/badge/Email-nlgarts@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nlgarts@outlook.com)
-
-</div>
+**Systems & Networks**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=microservices&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ---
 
-## 💡 Current Focus
+## What I Build
 
-- 🔭 Building innovative Layer 2 scaling solutions
-- 🌱 Exploring zero-knowledge proof implementations
-- 👯 Open to collaborating on blockchain infrastructure projects
-- 💬 Ask me about blockchain development, smart contracts, or distributed systems
-- 📫 Reach out for consulting, collaboration, or just to talk tech!
+🔗 **Blockchain Infrastructure** - Custom blockchains, consensus algorithms, and protocol design  
+⚡ **Layer 2 Solutions** - Scaling solutions, sidechains, and rollup implementations  
+🛡️ **Smart Contracts** - Secure, audited contracts for DeFi, NFTs, and DAOs  
+📱 **Full-Stack Apps** - Web and mobile applications with modern frameworks  
+🌐 **Distributed Systems** - P2P networks and decentralized architectures  
+💻 **Enterprise Software** - Scalable APIs, microservices, and cloud solutions
 
 ---
 
-<div align="center">
+## Connect
 
-### 🚀 Let's Build the Decentralized Future Together! 🔗✨
+- **LinkedIn**: [linkedin.com/in/nlg-sakib-338339279](https://www.linkedin.com/in/nlg-sakib-338339279/)
+- **Twitter**: [@nlg_sakib](https://twitter.com/nlg_sakib)
+- **Email**: [nlgarts@outlook.com](mailto:nlgarts@outlook.com)
+- **GitHub**: [@nnlgsakib](https://github.com/nnlgsakib)
 
-*"Innovation distinguishes between a leader and a follower." - Steve Jobs*
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=nnlgsakib&color=brightgreen&style=flat-square)
+💡 **Open to collaborations** on blockchain infrastructure projects and innovative Web3 solutions.
 
-</div>
+*Building the decentralized future, one block at a time.* 🚀
