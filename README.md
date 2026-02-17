@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/github/followers/nnlgsakib?label=Follow&style=social)](https://github.com/nnlgsakib)
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nlg-sakib-338339279/)
 [![Twitter](https://img.shields.io/badge/-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nlg_sakib)
-[![Email](https://img.shields.io/badge/-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nlgarts@outlook.com)
+[![Email](https://img.shields.io/badge/-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nlgsakib@gmail.com)
 
 ---
 
