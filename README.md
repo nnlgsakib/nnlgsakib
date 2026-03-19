@@ -99,7 +99,7 @@ Professional developer with deep expertise in blockchain technology and modern s
 
 - **LinkedIn**: [linkedin.com/in/nlg-sakib-338339279](https://www.linkedin.com/in/nlg-sakib-338339279/)
 - **Twitter**: [@nlg_sakib](https://twitter.com/nlg_sakib)
-- **Email**: [nlgarts@outlook.com](mailto:nlgarts@outlook.com)
+- **Email**: [nlgarts@outlook.com](mailto:me@nlgsakib.online)
 - **GitHub**: [@nnlgsakib](https://github.com/nnlgsakib)
 
 ---
